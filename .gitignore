@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNetCore.HelloService/.vs/DotNetCore.HelloService/v15
+/DotNetCore.HelloService/obj/Docker
+/DotNetCore.HelloService/obj/Debug
